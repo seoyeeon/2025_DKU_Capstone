@@ -140,7 +140,7 @@ java -jar ai-0.0.1-SNAPSHOT.jar</code></pre>
   <li>프론트엔드 앱 실행
     <pre><code>cd checkmate/FRONT
 npm install
-npm startd</code></pre>
+npm start</code></pre>
   </li>
     <li>AI 앱 실행
     <pre><code>cd checkmate/AI
